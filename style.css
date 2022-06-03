@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-image: url("background.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+#box {
+    display: block;
+    width: 2000px;
+    height: 1500px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+span.logo img {
+    border-radius: 60%;
+    height: 20px;
+    margin-left: 150px;
+}
+span.logo b {
+    font-size: 30px;
+}
+span.logo {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-bottom: 100px;
+
+
+}
+p {
+    margin-left: 150px;
+    color: white;
+}
+#pop {
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+#vut {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+button {
+    margin-left: 150px;
+    padding: 10px;
+}
